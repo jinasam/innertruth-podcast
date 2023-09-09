@@ -5,7 +5,8 @@ pubDate: 09 Sep 2023
 duration: 0:20
 size: 0.63
 explicit: false
-episode: ""
+episode: 2
+season: 1
 episodeType: full
 ---
 A quick description of induction.
